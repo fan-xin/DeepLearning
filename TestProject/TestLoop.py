@@ -1,0 +1,1 @@
+#练习循环的写法names = ['a','b','c']print(names)for name in names:    print(name)num = range(1,5)for i in range(1,5):    print(i)birth = input('birth:')print(birth)

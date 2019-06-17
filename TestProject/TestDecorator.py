@@ -1,0 +1,1 @@
+def log(func):    def wrapper(*args, **kw):        print('call %s():'%func.__name__)        return func(*args,**kw)    return wrapper#注意这个地方使用的是＠log的语法@logdef now():    print('2014-01-99')now()

@@ -1,0 +1,1 @@
+print(int('12345'))print(int('12345',base=8))print(int('12345',base=10))print(int('10000',base=16))print(int('10000',base=2))print(int('100000',base=2))import functoolsint2 = functools.partial(int, base=2)print('100000 = ', int2('100000'))print('101010 = ', int2('101010'))

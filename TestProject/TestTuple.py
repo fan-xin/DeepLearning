@@ -1,0 +1,1 @@
+classmate = ('a','b','c')print(classmate)t = ('a','b',['A','B'])print(t)print(t[1])print(t[2][1])
