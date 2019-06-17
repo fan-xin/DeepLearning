@@ -1,0 +1,1 @@
+d = {'a':45,'b':5,'c':78,'d':42}print(d)print(d['a'])d['a']=99print(d['a'])d.pop('a')print(d)s = set([1,2,3,3,2,1])print(s)s.add(4)print(s)a = 'abc'b = a.replace('a','A')print(b)print(a)Mydict = {'a':1,'b':2,'c':3}

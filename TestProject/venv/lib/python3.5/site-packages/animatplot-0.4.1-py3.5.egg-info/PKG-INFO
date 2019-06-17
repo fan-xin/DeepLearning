@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: animatplot
+Version: 0.4.1
+Summary: Making animating in matplotlib easy
+Home-page: https://github.com/t-makaro/animatplot/
+Author: Tyler Makaro
+Author-email: 
+License: MIT
+Description: # animatplot
+        A python package for making interactive animated plots build on matplotlib.
+        
+        ![image](docs/source/tutorial/images/multiblock.gif)
+        
+        ## Requires
+        - Python >= 3.5
+        - Matplotlib >= 2.2 (because [sliders have discrete values](https://matplotlib.org/users/whats_new.html#slider-ui-widget-can-snap-to-discrete-values))
+        ## Installation
+        ```bash
+        pip install animatplot
+        ```
+        
+        or using conda
+        ```bash
+        conda install animatplot -c conda-forge
+        ```
+        
+        ## Documentation
+        Documentation can be found [here](https://animatplot.readthedocs.io/en/latest/index.html)
+        
+        ## Dev Install
+        ```bash
+        git clone https://github.com/t-makaro/animatplot.git
+        pip install -e .
+        ```
+        This project uses ```pycodestyle``` for linting. For testing, ```pytest``` is used.
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
