@@ -1,0 +1,1 @@
+'a test module'__author__='Fan Xin'import sysdef test():    args = sys.argv    if len(args)==1:        print('Hello')    elif len(args)==2:        print('world')    else:        print('nothing')#判断是否是被引用，如果是被引用，则不立刻执行test函数，而是在被调用的时候才执行if __name__=='__main__':    test()#打印出python的当前目录和所有已经安装的内置模块和第三方模块print(sys.path)
