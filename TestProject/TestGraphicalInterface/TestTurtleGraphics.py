@@ -1,0 +1,1 @@
+from turtle import *width(4)forward(200)#画面停止done()

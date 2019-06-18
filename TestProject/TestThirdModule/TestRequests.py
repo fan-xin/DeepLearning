@@ -1,0 +1,1 @@
+import requestsre = requests.get('http://www.douban.com')#打印网页返回的响应码print(re.status_code)#输出获取到的内容# print(re.text)#带参数访问r = requests.get('http://www.douban.com/search',params={'q':'python','cat':'1001'})print(r.url)print(r.encoding)print(r.content)print(r.cookies)#指定超时# r = requests.get(url,timeout=2.5)
