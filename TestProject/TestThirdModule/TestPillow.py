@@ -1,0 +1,1 @@
+from PIL import Imageim = Image.open('cat.jpg')w,h = im.sizeprint(w,h)im.thumbnail((w//2,h//2))print(w//2,h//2)im.save('cat2.jpg','jpeg')

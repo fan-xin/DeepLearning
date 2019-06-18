@@ -1,0 +1,1 @@
+import osprint(os.getpid())pid = os.fork()if pid == 0:    print(os.getpid(), os.getppid())else:    print('a child process',os.getpid(), pid)

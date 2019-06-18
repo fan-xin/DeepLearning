@@ -1,0 +1,1 @@
+#获取系统信息import psutil#CPU逻辑数量print(psutil.cpu_count())#CPU物理数量print(psutil.cpu_count(logical=False))print(psutil.cpu_times_percent())print(psutil.cpu_times())#内存信息print(psutil.virtual_memory())print(psutil.disk_partitions())print(psutil.disk_usage('/'))print(psutil.pids())p=psutil.Process(55)print(p.name())#ps命令的效果print(psutil.test())
