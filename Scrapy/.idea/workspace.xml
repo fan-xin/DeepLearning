@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b76b7a0-3b56-444a-b1e5-6e24d3e7ddf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Scrapy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScrapyMaoYan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestParserLib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestUrllib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/TestStorage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestMaoyan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTouTiao/TestTouTiao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTouTiao/TestTouTiao2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTouTiao/TestTouTiao3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTouTiao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestWeibo/TestWeiBo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestWeibo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test/1-26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapyMaoYan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestParserLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestParserLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestRe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestUrllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestUrllib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Test/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestMaoyan/result.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +32,66 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test.py">
+        <entry file="file://$PROJECT_DIR$/Test/1-26.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/explore.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="441">
+              <caret line="1225" selection-start-line="1225" selection-end-line="1225" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ghostdriver.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="125" column="11" lean-forward="true" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestMaoyan/result.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+              <folding>
+                <element signature="e#38#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
               <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -34,49 +101,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestUrllib.py">
+        <entry file="file://$PROJECT_DIR$/Test/TestUrllib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1314">
+            <state relative-caret-position="441">
               <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestRe.py">
+        <entry file="file://$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrapyMaoYan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-              <folding>
-                <element signature="e#13#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestParserLib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/result.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="112" column="117" lean-forward="true" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="121" />
+            <state relative-caret-position="144">
+              <caret line="12" selection-start-line="11" selection-start-column="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -90,6 +127,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/不仅省钱，毛衣的功能不仅仅是穿，跟她搭起来更美！</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -99,16 +141,24 @@
         <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/TestUrllib.py" />
         <option value="$PROJECT_DIR$/TestRe.py" />
-        <option value="$PROJECT_DIR$/ScrapyMaoYan.py" />
         <option value="$PROJECT_DIR$/TestParserLib.py" />
+        <option value="$PROJECT_DIR$/TestStorage.py" />
+        <option value="$PROJECT_DIR$/result.txt" />
+        <option value="$PROJECT_DIR$/ScrapyMaoYan2.py" />
+        <option value="$PROJECT_DIR$/TestWeiBo.py" />
+        <option value="$PROJECT_DIR$/TestTouTiao2.py" />
+        <option value="$PROJECT_DIR$/TestTouTiao3.py" />
+        <option value="$PROJECT_DIR$/TestTouTiao.py" />
+        <option value="$PROJECT_DIR$/ScrapyMaoYan.py" />
+        <option value="$PROJECT_DIR$/TestTouTiao/TestTouTiao.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="585" />
+    <option name="y" value="142" />
+    <option name="width" value="964" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,6 +175,16 @@
               <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="TestMaoyan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="TestTouTiao" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,6 +199,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test" />
+      <recent name="$PROJECT_DIR$/TestMaoyan" />
+      <recent name="$PROJECT_DIR$/TestTouTiao" />
+      <recent name="$PROJECT_DIR$/TestWeibo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -168,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyMaoYan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ScrapyMaoYan2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestParserLib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestTouTiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestParserLib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestTouTiao/TestTouTiao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestTouTiao2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +297,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestRe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestTouTiao/TestTouTiao2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestUrllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestTouTiao3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,7 +318,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestUrllib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestTouTiao/TestTouTiao3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,10 +330,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ScrapyMaoYan" />
-        <item itemvalue="Python.TestParserLib" />
-        <item itemvalue="Python.TestRe" />
-        <item itemvalue="Python.TestUrllib" />
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.TestTouTiao" />
+        <item itemvalue="Python.ScrapyMaoYan2" />
+        <item itemvalue="Python.TestTouTiao2" />
+        <item itemvalue="Python.TestTouTiao3" />
       </list>
     </recent_temporary>
   </component>
@@ -289,15 +355,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12322792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16030534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3289855" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3289855" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48020303" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.69340104" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,19 +374,94 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestRe.py">
+    <entry file="file://$PROJECT_DIR$/Test/TestRe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
+    <entry file="file://$PROJECT_DIR$/Test/TestParserLib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestStorage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestWeibo/TestWeiBo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我眼中的父亲/0d8236642bcb1337a26b86427f626898.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我眼中的父亲/4d1cb21967173df071dd373ab8e97f2a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我眼中的父亲/4501eb34536df46ec6976f34c31c967f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我眼中的父亲/e8303b2509974fc42b3fe5bce648178b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/5b3126f327f36a5a6e1190a223823f81.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/9b3e14cd862171e1de578404bea36d18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/7506d2b17aea4e37171c2436d1106fd0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/c7d6198a5de2b009e4b024071c2c1b73.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding>
+            <element signature="e#1#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="11" selection-start-column="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
           <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -328,34 +469,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestUrllib.py">
+    <entry file="file://$PROJECT_DIR$/Test/TestUrllib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
+        <state relative-caret-position="441">
           <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestParserLib.py">
+    <entry file="file://$PROJECT_DIR$/TestMaoyan/result.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="445">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapyMaoYan.py">
+    <entry file="file://$PROJECT_DIR$/Test/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1-26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/explore.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="441">
+          <caret line="1225" selection-start-line="1225" selection-end-line="1225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="125" column="11" lean-forward="true" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
           <folding>
-            <element signature="e#13#28#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result.txt">
+    <entry file="file://$PROJECT_DIR$/TestMaoyan/ScrapyMaoYan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="112" column="117" lean-forward="true" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="121" />
+        <state relative-caret-position="75">
+          <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+          <folding>
+            <element signature="e#38#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
