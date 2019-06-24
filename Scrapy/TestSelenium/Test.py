@@ -1,0 +1,1 @@
+from selenium import webdriver#Firefox启动browser = webdriver.Firefox()browser.get('http://www.google.com')
