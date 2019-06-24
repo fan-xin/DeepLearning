@@ -1,0 +1,464 @@
+1561344891674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V88Dd4hAlnEu"
+1561344891973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561344891974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561344891974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561344894238	Marionette	INFO	Listening on port 46055
+1561344894281	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 5123, Gecko_IOThread] WARNING: pipe error (102): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5123, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5123, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561344923207	Marionette	INFO	Stopped listening on port 46055
+1561345271772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YkebaQha9Rbv"
+1561345272051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561345272051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561345272051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561345274357	Marionette	INFO	Listening on port 33519
+1561345274383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 6018, Gecko_IOThread] WARNING: pipe error (91): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6018, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6018, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561345316776	Marionette	INFO	Stopped listening on port 33519
+1561345697217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PwIHuLJoh06R"
+1561345697497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561345697497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561345697497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561345699855	Marionette	INFO	Listening on port 36600
+1561345699923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561345746681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ljZmYAnEYwFO"
+1561345746971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561345746971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561345746971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561345749498	Marionette	INFO	Listening on port 43458
+1561345749587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 8185, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8185, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8185, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561345761349	Marionette	INFO	Stopped listening on port 43458
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561346135532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nuB7TCFS3nYj"
+1561346135815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346135816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346135816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561346138035	Marionette	INFO	Listening on port 45673
+1561346138081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561346282911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E5WFauh1BCg9"
+1561346283234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346283234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346283234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561346285439	Marionette	INFO	Listening on port 43764
+1561346285517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561346311017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bD92WOhiB7Pt"
+1561346311367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346311367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346311367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 10420, Gecko_IOThread] WARNING: pipe error (116): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10420, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10420, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346314640	Marionette	INFO	Stopped listening on port 43764
+1561346316963	Marionette	INFO	Listening on port 41435
+1561346317027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1561346338469	Marionette	INFO	Stopped listening on port 41435
+1561346385611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wUHBv5ADNCSP"
+1561346385973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346385973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346385973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561346388221	Marionette	INFO	Listening on port 43947
+1561346388317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561346411279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i6jpUsrP6CBa"
+1561346411606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346411607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346411607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 11472, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11472, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11472, Gecko_IOThread] WARNING: pipe error (116): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11472, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346414747	Marionette	INFO	Stopped listening on port 43947
+1561346415066	Marionette	INFO	Listening on port 41004
+1561346415088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561346541689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.92IZaEupOTTs"
+1561346542010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346542010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346542010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561346544183	Marionette	INFO	Listening on port 44845
+1561346544240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561346782359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F3PnTYVTk7Fw"
+1561346782685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561346782685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561346782685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561346785492	Marionette	INFO	Listening on port 39804
+1561346785604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 12609, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12609, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12609, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346816965	Marionette	INFO	Stopped listening on port 44845
+[Parent 13165, Gecko_IOThread] WARNING: pipe error (122): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346854223	Marionette	INFO	Stopped listening on port 39804
+[Parent 11937, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11937, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11937, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346857858	Marionette	INFO	Stopped listening on port 41004
+[Parent 9611, Gecko_IOThread] WARNING: pipe error (89): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9611, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346861019	Marionette	INFO	Stopped listening on port 45673
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7563, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7563, Gecko_IOThread] WARNING: pipe error (116): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7563, Gecko_IOThread] WARNING: pipe error (174): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561346917191	Marionette	INFO	Stopped listening on port 36600
+1561347178340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tMMK7zDZitxD"
+1561347178701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561347178701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561347178701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561347181062	Marionette	INFO	Listening on port 43937
+1561347181172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1561347259608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uHg0C738lffZ"
+1561347259904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561347259904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561347259904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561347262053	Marionette	INFO	Listening on port 34729
+1561347262125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.16/index.js,mui/zepto/4.0.9/zepto.js,mui/zepto/4.0.9/event.js,mui/zepto/4.0.9/touch.js,mui/mtb-windvane/4.0.3/index.js,mui/babel-polyfill/6.2.7/index.js,mui/mtop/4.1.9/index.js,mui/zebra-dynamic/4.2.12/io.js,mui/zebra-dynamic/4.2.12/ald-bottom.js,mui/fetch/4.1.12/tool.js,mui/zebra-dynamic/4.2.12/request.js,mui/cookie/4.1.0/index.js,mui/zebra-dynamic/4.2.12/plugins/region/index.js,mui/zebra-dynamic/4.2.12/plugins/chaoshi/index.js,mui/zebra-dynamic/4.2.12/plugins/userId/index.js,mui/zebra-dynamic/4.2.12/plugin.js,mui/zebra-dynamic/4.2.12/index.js,mui/common/4.0.105/js/mod-config.js,mui/common/4.0.105/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.105/js/tm.js,mui/common/4.0.105/js/tool.js,mui/common/4.0.105/js/site-nav.js,mui/common/4.0.105/js/plugin-pc.js,mui/common/4.0.105/index-pc.js,mui/location/4.1.0/get-user-location-by-ip.js,mui/zebra-loader/4.4.15/index.js,mui/bat/5.0.11/index.js,mui/tes/5.0.14/index.js,mui/zebra-oversea-header-pc/4.0.30/index-pc.js, line 106: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561347870625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wQkJJXuDfDj3"
+1561347872773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561347872773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561347872773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561347878907	Marionette	INFO	Listening on port 40277
+1561347879784	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16175, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16175, Gecko_IOThread] WARNING: pipe error (91): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561347880676	Marionette	INFO	Stopped listening on port 34729
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561347993916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jP70P46OK0Nl"
+1561347994205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561347994216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561347994216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561347996573	Marionette	INFO	Listening on port 43131
+1561347996622	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561348073398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.plqsZAhRvIWT"
+1561348073690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561348073691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561348073691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561348075964	Marionette	INFO	Listening on port 45352
+1561348076006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.6.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.6.js, line 556: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-fefc1403d5.min.js, line 4: TypeError: events[system(...)] is undefined
+1561348342518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PF0h2aBntJdO"
+1561348351029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561348351029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561348351029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 18944, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18944, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18944, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18944, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18944, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Child 18944, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+1561348668975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yd3EYXvvYDgC"
+1561348673931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561348673931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561348673931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: https://g.alicdn.com/sea/sitenav-global/0.8.0/global-min.js, line 1: TypeError: b.set is not a function
+1561348686687	Marionette	INFO	Listening on port 39794
+1561348686953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ynuf.aliapp.org/if.htm?hybrid=1#https%3A%2F%2Fg.alicdn.com%2FAWSC%2FWebUMID%2F1.72.0%2Fum.js%3Fd%3D24 line 1 > scriptElement, line 4: NS_ERROR_NOT_INITIALIZED: 
+[Parent 18089, Gecko_IOThread] WARNING: pipe error (116): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1561348702678	Marionette	INFO	Stopped listening on port 45352
+1561348720654	Marionette	INFO	Stopped listening on port 43131
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561348766985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OqeZ8aKtGSvB"
+1561348768860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561348768860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561348768861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561348773560	Marionette	INFO	Listening on port 42905
+1561348773626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1561352983143	Marionette	INFO	Stopped listening on port 42905
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1561353350517	Marionette	INFO	Stopped listening on port 39794
+1561353353725	Marionette	INFO	Stopped listening on port 40277
+[Parent 15684, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561353357189	Marionette	INFO	Stopped listening on port 43937
+1561353838785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XZGGzxhah5mW"
+1561353839855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561353839855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561353839855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561353843245	Marionette	INFO	Listening on port 34906
+1561353844332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 23448, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23448, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23448, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561353854173	Marionette	INFO	Stopped listening on port 34906
+1561353865828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e8K2zFIXl0SL"
+1561353866110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561353866110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561353866110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561353868480	Marionette	INFO	Listening on port 35755
+1561353868535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1561353895427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UWT7aLUBeimi"
+1561353895724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561353895724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561353895724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561353898411	Marionette	INFO	Listening on port 40642
+1561353898457	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23884, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23884, Gecko_IOThread] WARNING: pipe error (89): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23884, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561353899700	Marionette	INFO	Stopped listening on port 35755
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Child 24534, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24349, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24349, Gecko_IOThread] WARNING: pipe error (117): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24349, Gecko_IOThread] WARNING: pipe error (91): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561354055618	Marionette	INFO	Stopped listening on port 40642
+1561354152437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3EvjNmWMOO7t"
+1561354153951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561354153951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561354153951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561354157355	Marionette	INFO	Listening on port 38656
+1561354157446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (115): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25000, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-DOz2lS/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561354173249	Marionette	INFO	Stopped listening on port 38656
+1561355035888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2bxS35mtfOnr"
+1561355056346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561355056346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561355056346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561355079142	Marionette	INFO	Listening on port 46605
+1561355081394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://intranet.sonyericsson.net/ScriptResource.axd?d=g7oho2DqCS76-rJKkgMQqvMf5-PEFQ7KZSNrXrKj07vxqicZiFGnugONVim3Bam_m1AiMIi_Xs7vJdYpOC2UqMlobnbdfbA0NwguhnDPly2Z8v0G9yumNxHCO2OLB1w_HVkqHqLqBz07XKHTiDg3kxGKnOV0X1cm098-Jy-uVPb4Tf6K0&t=ffffffffcbbb22d5, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://intranet.sonyericsson.net/_layouts/sp.ribbon.js?rev=F%2BUEJ66rbXzSvpf7nN69wQ%3D%3D, line 2: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561148779474%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561355860953	Marionette	INFO	Stopped listening on port 46605
