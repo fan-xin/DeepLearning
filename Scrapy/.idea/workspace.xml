@@ -2,14 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b76b7a0-3b56-444a-b1e5-6e24d3e7ddf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestSelenium/GetPictureFromTaobao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/NewTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/Test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/TestTaobaoBySelenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSelenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrackGeetest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigami.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/image_getter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tangbula/TestTangbula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tangbula/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/TestTesserocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/article_jap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/checkcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/checkcode_jap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/chinese_article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSelenium/GetImageFromTaobao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSelenium/TestWeibo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepLearningBasic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearningBasic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepLearningBasic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearningBasic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TestParserLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestParserLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TestRe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestRe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSelenium/NewTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSelenium/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSelenium/TestSelenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,86 +37,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
-              <folding>
-                <element signature="e#1#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestTouTiao/TestTouTiao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="109" column="10" lean-forward="true" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestSelenium/Test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestSelenium/TestTaobaoBySelenium.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigami.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1765">
-              <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
-              <folding>
-                <element signature="e#99#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestSelenium/GetPictureFromTaobao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#946#961#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestSelenium/NewTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding>
-                <element signature="e#21#36#0" expanded="true" />
+                <element signature="e#11#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,6 +62,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>chrome</find>
+      <find>_store_pic_url</find>
+      <find>nishikawa</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/不仅省钱，毛衣的功能不仅仅是穿，跟她搭起来更美！</dir>
@@ -145,14 +94,27 @@
         <option value="$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py" />
         <option value="$PROJECT_DIR$/TestSelenium/GetPictureFromTaobao.py" />
         <option value="$PROJECT_DIR$/TestSelenium/NewTest.py" />
+        <option value="$PROJECT_DIR$/TestSelenium/GetImageFromTaobao.py" />
+        <option value="$PROJECT_DIR$/TestSelenium/TestWeibo.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py" />
+        <option value="$PROJECT_DIR$/Tangbula/TestTangbula.py" />
+        <option value="$PROJECT_DIR$/Test/Test.py" />
+        <option value="$PROJECT_DIR$/Test/TestRe.py" />
+        <option value="$PROJECT_DIR$/Test/TestTesserocr.py" />
+        <option value="$PROJECT_DIR$/Test/TestParserLib.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/image_getter.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/test.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/Filter.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/Analysis.py" />
+        <option value="$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigami.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="x" value="75" />
+    <option name="y" value="59" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,7 +134,7 @@
             <path>
               <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="TestSelenium" type="462c0819:PsiDirectoryNode" />
+              <item name="ScrapyOrigamiHouse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,15 +149,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Scrapy" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Scrapy" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Test" />
       <recent name="$PROJECT_DIR$/TestMaoyan" />
       <recent name="$PROJECT_DIR$/TestTouTiao" />
       <recent name="$PROJECT_DIR$/TestWeibo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,8 +181,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NewTest">
-    <configuration name="GetPictureFromTaobao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ScrapyOrigami">
+    <configuration name="Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyOrigamiHouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSelenium/GetPictureFromTaobao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyOrigamiHouse/Analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GetTaobaoItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyOrigamiHouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyOrigamiHouse/Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NewTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ScrapyOrigami" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyOrigamiHouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSelenium/NewTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigami.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="image_getter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyOrigamiHouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSelenium/Test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyOrigamiHouse/image_getter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTaobaoBySelenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyOrigamiHouse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSelenium/TestTaobaoBySelenium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyOrigamiHouse/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NewTest" />
-        <item itemvalue="Python.GetPictureFromTaobao" />
-        <item itemvalue="Python.GetTaobaoItem" />
-        <item itemvalue="Python.TestTaobaoBySelenium" />
-        <item itemvalue="Python.Test2" />
+        <item itemvalue="Python.ScrapyOrigami" />
+        <item itemvalue="Python.Analysis" />
+        <item itemvalue="Python.Filter" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.image_getter" />
       </list>
     </recent_temporary>
   </component>
@@ -343,64 +314,62 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1346783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17339149" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41319796" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.030456852" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.66323024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289855" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289855" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289855" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.328934" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.328934" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.328934" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/TestRe.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScrapyOrigamiHouse/Analysis.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/TestRe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TestParserLib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TestStorage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestWeibo/TestWeiBo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/我眼中的父亲/0d8236642bcb1337a26b86427f626898.jpg" />
-    <entry file="file://$PROJECT_DIR$/我眼中的父亲/4d1cb21967173df071dd373ab8e97f2a.jpg" />
-    <entry file="file://$PROJECT_DIR$/我眼中的父亲/4501eb34536df46ec6976f34c31c967f.jpg" />
-    <entry file="file://$PROJECT_DIR$/我眼中的父亲/e8303b2509974fc42b3fe5bce648178b.jpg" />
     <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/5b3126f327f36a5a6e1190a223823f81.jpg" />
     <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/9b3e14cd862171e1de578404bea36d18.jpg" />
     <entry file="file://$PROJECT_DIR$/海口首家24小时无人便利店里面到底卖什么？进去不购物能出来吗？/7506d2b17aea4e37171c2436d1106fd0.jpg" />
@@ -422,40 +391,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TestUrllib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestMaoyan/result.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/1-26.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/explore.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="1225" selection-start-line="1225" selection-end-line="1225" />
         </state>
       </provider>
     </entry>
@@ -468,33 +407,6 @@
           <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
           <folding>
             <element signature="e#38#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1765">
-          <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
-          <folding>
-            <element signature="e#99#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestSelenium/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestSelenium/Test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -521,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSelenium/TestTaobaoBySelenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="72">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -531,20 +443,233 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSelenium/GetPictureFromTaobao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="612">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#946#961#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSelenium/NewTest.py">
+    <entry file="file://$PROJECT_DIR$/TestSelenium/GetImageFromTaobao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="738">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSelenium/TestWeibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
           <folding>
-            <element signature="e#21#36#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSelenium/GetTaobaoItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+          <folding>
+            <element signature="e#99#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSelenium/TestSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSelenium/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tangbula/TestTangbula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/1-26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/explore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18375">
+          <caret line="1225" selection-start-line="1225" selection-end-line="1225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestTesserocr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <element signature="e#23#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestParserLib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestUrllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_clawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="e#394#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/image_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#55#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestRe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/TestStorage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#33#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/Filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="e#11#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/西川誠司作品集/DSC01023.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/西川誠司作品集/DSC01025.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/西川誠司作品集/DSC01038.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/神谷哲史折り紙作品集3/contents.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/神谷哲史作品集 2/02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/神谷哲史作品集/baha.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/神谷哲史作品集/ei.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/折紙図鑑　昆虫・2/02_acrocinus.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/折紙図鑑　昆虫・2/05_pill_bug.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/川畑文昭折り紙作品集/kawahata_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/其他/batou.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/其他/haremen.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/ジョワゼル写真集/joisel_part1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/ジョワゼル写真集/joisel_part4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/クエンティン・トロリップ折り紙作品集/03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/books/クエンティン・トロリップ折り紙作品集/fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigami.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#11#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
