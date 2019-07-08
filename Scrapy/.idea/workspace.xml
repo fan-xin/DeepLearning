@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b76b7a0-3b56-444a-b1e5-6e24d3e7ddf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ScrapyWeibo/TestWeiBo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScrapyWeibo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScrapyXvedio/ScrapyXvedio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScrapyXvedio/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyOrigamiHouse/DownloadLinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/DownloadLinks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigamiHouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyOrigamiHouse/ScrapyOrigamiHouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyOrigamiHouse/TumblerCrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyTumbler/TumblerCrawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tangbula/TestTangbula.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyTumbler/TestTangbula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tangbula/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/1-26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/1-26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TestParserLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/TestParserLib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TestRe.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/TestRe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TestStorage.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/TestStorage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TestTesserocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/TestTesserocr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TestUrllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/TestUrllib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyCommic/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/article_jap.png" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/article_jap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/checkcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/checkcode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/checkcode_jap.png" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/checkcode_jap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/chinese_article.png" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/chinese_article.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/explore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/explore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPractice/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSelenium/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSelenium/TestSelenium2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestWeibo/TestWeiBo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestWeibo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyTumbler/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestSelenium/TestSelenium2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -76,15 +51,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicPractice/TestUrllib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1629" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScrapyTumbler/TestTangbula.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="645">
               <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
               <folding>
                 <element signature="e#39#67#0" expanded="true" />
@@ -96,7 +69,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScrapyTumbler/TumblerCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5265">
+            <state relative-caret-position="904">
               <caret line="351" column="24" lean-forward="true" selection-start-line="351" selection-start-column="24" selection-end-line="351" selection-end-column="24" />
               <folding>
                 <element signature="e#25#34#0" expanded="true" />
@@ -183,11 +156,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
-    <option name="y" value="119" />
-    <option name="width" value="1855" />
-    <option name="height" value="1028" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="985" />
+    <option name="y" value="438" />
+    <option name="width" value="1853" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -197,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,22 +178,16 @@
               <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapyTumbler" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorial" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -394,7 +362,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="119" width="1855" height="1028" extended-state="0" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24754634" />
@@ -402,7 +370,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4381055" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4381055" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4848485" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -674,17 +642,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSelenium/TestSelenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestSelenium/TestSelenium2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -694,10 +655,10 @@
     <entry file="file://$PROJECT_DIR$/BasicPractice/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPractice/TestParserLib.py">
+    <entry file="file://$PROJECT_DIR$/BasicPractice/TestRe.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicPractice/TestRe.py">
+    <entry file="file://$PROJECT_DIR$/BasicPractice/TestParserLib.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicPractice/TestStorage.py">
@@ -707,13 +668,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicPractice/TestUrllib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1629" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ScrapyTumbler/TestTangbula.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="645">
           <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding>
             <element signature="e#39#67#0" expanded="true" />
@@ -721,9 +680,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestSelenium/TestSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ScrapyTumbler/TumblerCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5265">
+        <state relative-caret-position="904">
           <caret line="351" column="24" lean-forward="true" selection-start-line="351" selection-start-column="24" selection-end-line="351" selection-end-column="24" />
           <folding>
             <element signature="e#25#34#0" expanded="true" />
